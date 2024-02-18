@@ -1,0 +1,16 @@
+.avatarLink{
+    margin: auto;
+}
+.imgBorder {
+    border-radius: 50%;
+}
+.name{
+    text-align: center;
+    font-weight: 500;
+}
+.colorGrey{
+    color: #868e96;
+}
+.mr{
+    margin-right: 6px;
+}
